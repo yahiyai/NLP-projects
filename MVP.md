@@ -23,13 +23,13 @@ Done by:
 
 
 ***
-![](https://github.com/ghaliahmaher/NLP-and-Unsupervised-learning-/blob/main/Picture1.jpg)
+![](https://github.com/QUITE7/NLP_Project/blob/main/Picture1.jpg)
 
 This image represent the intertopic distance map, in this project the group agreed on choosing seven as a fixed number for the number of clusters (topics).
 
 ***
 
-![](https://github.com/ghaliahmaher/NLP-and-Unsupervised-learning-/blob/main/Picture2.jpg)
+![](https://github.com/QUITE7/NLP_Project/blob/main/Picture2.jpg)
 
 * This image representing the BarH plot, the plot shows the frequency of word in each topic,the plot shows seven diffrent topics, every subplot shows the most words occured within the topic.
 
